@@ -1,0 +1,8 @@
+<!--pages/welcome/welcome.wxml-->
+<view class='container'>
+  <image class='user-avatar' src="/images/3.jpg"></image>
+  <text class='user-name'>Hello,  linvscode</text>
+  <view class='moto-container'>
+    <text class='moto'>内嵌文本</text>
+  </view>
+</view>

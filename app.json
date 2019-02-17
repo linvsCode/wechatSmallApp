@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/welcome/welcome"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#b3d4db",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "导航栏顶部标题",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh":true
+  }
+}
+  
