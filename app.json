@@ -1,6 +1,8 @@
 {
-  "pages":[
-    "pages/welcome/welcome"
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/posts/posts"
+    
   ],
   "window": {
     "navigationBarBackgroundColor": "#b3d4db",
@@ -8,7 +10,6 @@
     "navigationBarTitleText": "导航栏顶部标题",
     "backgroundColor": "#eeeeee",
     "backgroundTextStyle": "light",
-    "enablePullDownRefresh":true
+    "enablePullDownRefresh": true
   }
 }
-  
